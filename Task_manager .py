@@ -17,7 +17,7 @@ while flag == True:
                 To_do.append(user_input_1)
         else:
             To_do.append(user_input_1)
-        print("Your Updated List is", To_do) # Added missing comma
+        print("Your Updated List is", To_do) 
     elif user_choice == 2:
         print("Here is your Task List: ")
         print(To_do)
