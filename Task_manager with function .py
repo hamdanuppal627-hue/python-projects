@@ -1,48 +1,4 @@
-# def candies():
-#     candies = ["chocolate","White chocolate","sour patch", "Diary milk"]
-#     print(f"Hi {name}, How you doin?")
-#     print(candies)
-#     inp_candy = input("Enter the Chocolate you want to add to the list: ")
-#     candies.append(inp_candy)
-#     choice = input("Which chocolate you love from the list: ")
-#     if choice in candies:
-#         print(f"So you love {choice}, You know what is Also like {choice}")
-#     else:
-#         print("invalid Choice(Candy not in list!)")
-# name = input("Enter your name: ")
-# candies()
 
-
-# def information():
-#     if info_about == "yourself" or info_about == "mother" or info_about == "father":
-#         print(f"Hello {name}, How you doin!")
-#         print(f"So you were born in {year}")
-#         age = 2026 - year
-#         print(f"Your age is {age}")
-#         if age > 25:
-#             print("How does it feel to live with a dinosaur?")
-#         else:
-#             print(f"You are just {age}. You unc!")
-#     else:
-#         print("Invalid input!(Input should be(Yourself|mother|father))")
-# info_about = input("For which person is this information (mother/father/yourself)? ").lower()
-# name = input("Enter your name: ")
-# year = input("Which year were you born in? ")
-# if year.isdigit():
-#     year = int(year)
-# else:
-#     print("Invalid input 'AGE' should only be a integer!!!")
-    
-# information()
-
-
-# array = [34,34,23,45,67,24]
-# def calculated_number(numbers):
-#   total = 0
-#   for x in numbers:
-#      total = total + x
-#   return total
-# print(calculated_number(array))
 
 
 Task = []
